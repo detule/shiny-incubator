@@ -1,5 +1,5 @@
 .shiny-progress {
-  position: absolute;
+  position: fixed;
   width: 300px;
   top: 20px;
   right: 20px;
